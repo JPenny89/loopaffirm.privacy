@@ -1,1 +1,1 @@
-# loopaffirm
+# loopaffirm.privacy
